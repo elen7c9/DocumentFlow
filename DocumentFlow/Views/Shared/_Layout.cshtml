@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="~/Content/styles.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+    <link href="~/Content/froala_style.min.css" rel="stylesheet" type="text/css"/>
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/gridmvc.min.js"></script>
+    <link href="~/Content/Gridmvc.css" rel="stylesheet"/>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Scripts/bootstrap-datepicker.js"></script>
+    <link href="~/Content/gridmvc.datepicker.css" rel="stylesheet" type="text/css" />
+
+    <title>Главная</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="left-sidebar">
+        <ul class="menu">
+            <li class="menu-item">
+                <h1>@ViewBag.FullName</h1>
+                <ul class="submenu">
+                    <li class="submenu-item">@Html.ActionLink("Редактировать", "Edit", "Manage")</li>
+                    <li class="submenu-item">@Html.ActionLink("Изменить пароль", "EditPassword", "Manage")</li>
+                    <li class="submenu-item">@Html.ActionLink("Удалить", "Delete", "Manage")</li>
+                    <li class="submenu-item">@Html.ActionLink("Выйти", "Logoff", "Account")</li>
+                </ul>
+            </li>
+        </ul>
+        <nav>
+            @Html.ActionLink("Входящие", "Inbox", "Main")
+            @Html.ActionLink("Исходящие", "Outbox", "Main")
+            @Html.ActionLink("Заполнить", "DocumentTemplates", "Main")
+            @if (HttpContext.Current.Request.Cookies["Role"].Value == "Admin")
+            {
+                @Html.ActionLink("Панель администратора", "Roles", "Role")
+            }
+        </nav>
+        <div class="logo">OneStepDoc</div>
+    </div>
+    <div class="main-block">
+        <div class="main-blcok-wrapper">
+            @RenderBody()
+        </div>
+    </div>
+
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+    <script src="~/Scripts/validate.config.js"></script>
+</div>
+</body>
+</html>

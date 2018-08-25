@@ -1,0 +1,673 @@
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Documents\Document-Management\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.InitialCreate.resources
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csproj.GenerateResource.Cache
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.MIgrationDB.resources
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.InitialCreate.resources
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.MigrationDB.resources
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csproj.GenerateResource.Cache
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\copy\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.MigrationDB1.resources
+C:\Users\Ksenia\Desktop\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.Migrations.MigrationDB1.resources
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll.config
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\DocumentFlow.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\DocumentFlow.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityFramework.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Owin.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Razor.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityFramework.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Newtonsoft.Json.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Razor.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Helpers.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\System.Web.Mvc.xml
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\BL.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\DAL.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityModels.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\BL.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\DAL.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\EntityModels.pdb
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Ninject.dll
+D:\Рабочий стол\DocumentFlow\DocumentFlow\bin\Ninject.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\DocumentFlow.dll.config
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\DocumentFlow.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\DocumentFlow.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\BL.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityFramework.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityModels.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Ninject.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Owin.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Helpers.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Mvc.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Razor.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\DAL.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\BL.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityModels.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityFramework.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\Ninject.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Razor.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Helpers.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\System.Web.Mvc.xml
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\DAL.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\BL.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityModels.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Ninject.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\DAL.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\BL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityModels.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\Ninject.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\DAL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DocumentFlow\bin\GridMvc.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\AutoMapper.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\BL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\DAL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityModels.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\GridMvc.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Ninject.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Owin.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\BL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\DAL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityModels.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\AutoMapper.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\Ninject.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\BL.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\DAL.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityModels.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\GridMvc.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Ninject.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Owin.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\BL.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\DAL.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityModels.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\Ninject.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Admin\Desktop\Document-Flow\DocumentFlow\obj\Debug\DocumentFlow.pdb
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\AutoMapper.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\GridMvc.dll
+D:\SourceTreeProjects\Document-Flow\DocumentFlow\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\DocumentFlow.dll.config
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\DocumentFlow.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\DocumentFlow.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.Mvc.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\BL.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\DAL.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityModels.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\GridMvc.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Ninject.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Owin.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\BL.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\DAL.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityModels.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\Ninject.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ksen\DocumentFlow\obj\Debug\DocumentFlow.dll
+C:\Users\Admin\Desktop\ksen\DocumentFlow\obj\Debug\DocumentFlow.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.dll.config
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\BL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DAL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityModels.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\BL.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DAL.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityModels.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\AutoMapper.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityFramework.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityFramework.SqlServer.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Newtonsoft.Json.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Ninject.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Razor.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Helpers.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Mvc.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\EntityFramework.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.dll.config
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DocumentFlow.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\BL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DAL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityModels.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\BL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\DAL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityModels.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.Mvc.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ActionMailer.Net.Mvc.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\AutoMapper.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityFramework.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\EntityFramework.SqlServer.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Newtonsoft.Json.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\Ninject.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Razor.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.Deployment.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Webpages.Razor.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Helpers.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\System.Web.Mvc.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\EntityFramework.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Razor.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Helpers.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\bin\ru\System.Web.Mvc.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.csprojResolveAssemblyReference.cache
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DocumentFlow\obj\Debug\DocumentFlow.pdb

@@ -1,0 +1,104 @@
+D:\Рабочий стол\DocumentFlow\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\DAL.dll.config
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\DAL.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\DAL.pdb
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityFramework.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityFramework.xml
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Рабочий стол\DocumentFlow\DAL\obj\Debug\DAL.dll
+D:\Рабочий стол\DocumentFlow\DAL\obj\Debug\DAL.pdb
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityModels.dll
+D:\Рабочий стол\DocumentFlow\DAL\bin\Debug\EntityModels.pdb
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\DAL.dll.config
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\DAL.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\DAL.pdb
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityFramework.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityModels.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityModels.pdb
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityFramework.xml
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\SourceTreeProjects\Document-Flow\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\SourceTreeProjects\Document-Flow\DAL\obj\Debug\DAL.dll
+D:\SourceTreeProjects\Document-Flow\DAL\obj\Debug\DAL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\DAL.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\DAL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityModels.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityModels.pdb
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Documents\Document-Flow\DAL\obj\Debug\DAL.dll
+C:\Users\Ksenia\Documents\Document-Flow\DAL\obj\Debug\DAL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\obj\Debug\DAL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\obj\Debug\DAL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\DAL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\DAL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityModels.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityModels.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityModels.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityModels.pdb
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Document-Flow\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Document-Flow\DAL\obj\Debug\DAL.pdb
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\AutoMapper.dll
+D:\SourceTreeProjects\Document-Flow\DAL\bin\Debug\AutoMapper.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.dll.config
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\AutoMapper.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityModels.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityModels.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\AutoMapper.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.dll.config
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\DAL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\AutoMapper.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityModels.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityModels.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\AutoMapper.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\DAL\obj\Debug\DAL.pdb

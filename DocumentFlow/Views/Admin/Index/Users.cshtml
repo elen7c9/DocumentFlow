@@ -1,0 +1,88 @@
+﻿@using EntityModels
+@model IEnumerable<EntityModels.User>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    IEnumerable<Position> positions = ViewBag.Positions;
+    IEnumerable<Role> roles = ViewBag.Roles;
+}
+
+<div class="main-block">
+    <div class="main-blcok-wrapper">
+        <div class="header">
+            <h1>Пользователи</h1>
+        </div>
+        <div class="middle">
+            <br>
+            <div class="middle">
+                <table style="margin-bottom: 20px; width: 100%;">
+                    @if (Model != null && Model.Count() != 0)
+                    {
+                        <thead>
+                        <tr>
+                            <th>Логин</th>
+                            <th>Имя</th>
+                            <th>Фамилия</th>
+                            <th>Отчество</th>
+                            <th>Должность</th>
+                            <th>Email</th>
+                            <th>Пароль</th>
+                            <th>Роль</th>
+                            <th>Операция</th>
+                        </tr>
+                        </thead>
+                        foreach (var item in Model)
+                        {
+                            <tbody>
+                            <tr>
+                                <td>@item.UserName</td>
+                                <td>@item.FirstName</td>
+                                <td>@item.LastName</td>
+                                <td>@item.Patronymic</td>
+                                <td>
+
+
+                                    @if (positions != null)
+                                    {
+                                        var firstOrDefault = positions.FirstOrDefault(x => x.Id == item.PositionId);
+
+                                        if (firstOrDefault != null)
+                                        {
+                                            @firstOrDefault.Name
+                                        }
+                                    }
+                                </td>
+                                <td>@item.Email</td>
+                                <td>@item.Password</td>
+                                <td>
+
+
+                                    @if (roles != null)
+                                    {
+                                        var orDefault = roles.FirstOrDefault(x => x.Id == item.RoleId);
+
+                                        if (orDefault != null)
+                                        {
+                                            @orDefault.Name
+                                        }
+                                    }
+                                </td>
+                                <td class="action-buttons">
+                                    @Html.ActionLink(" ", "EditUser", new {id = item.Id}, new {@class = "edit-button"})
+                                    @Html.ActionLink(" ", "DeleteUser", new {id = item.Id}, new {@class = "remove-button"})
+                                </td>
+                            </tr>
+                            </tbody>
+                        }
+                    }
+                    else
+                    {
+                        <tr>список пуст</tr>
+                    }
+                </table>
+            </div>
+            <div class="footer">
+                <h1>© Copyright 2015. All rights reserved by Demen_off</h1>
+            </div>
+        </div>
+    </div>
+</div>

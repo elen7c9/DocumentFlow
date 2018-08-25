@@ -1,0 +1,116 @@
+D:\Рабочий стол\DocumentFlow\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\BL.dll
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\BL.pdb
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\DAL.dll
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\EntityFramework.dll
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\DAL.pdb
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\EntityFramework.xml
+D:\Рабочий стол\DocumentFlow\BL\obj\Debug\BL.dll
+D:\Рабочий стол\DocumentFlow\BL\obj\Debug\BL.pdb
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\EntityModels.dll
+D:\Рабочий стол\DocumentFlow\BL\bin\Debug\EntityModels.pdb
+D:\SourceTreeProjects\Document-Flow\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SourceTreeProjects\Document-Flow\BL\obj\Debug\BL.dll
+D:\SourceTreeProjects\Document-Flow\BL\obj\Debug\BL.pdb
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\BL.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\BL.pdb
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\DAL.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\EntityModels.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\System.Web.Mvc.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\EntityFramework.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\DAL.pdb
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\EntityModels.pdb
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\System.Web.Mvc.xml
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\EntityFramework.xml
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\BL.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\BL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\DAL.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\EntityModels.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\EntityFramework.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\DAL.pdb
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\EntityModels.pdb
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\EntityFramework.xml
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\obj\Debug\BL.dll
+C:\Users\Ksenia\Documents\Document-Flow\BL\obj\Debug\BL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Desktop\Document-Flow\BL\obj\Debug\BL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\obj\Debug\BL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\BL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\BL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\AutoMapper.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\DAL.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\EntityModels.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\EntityFramework.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\DAL.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\AutoMapper.xml
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\EntityModels.pdb
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\EntityFramework.xml
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Ksenia\Desktop\Document-Flow\BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\BL.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\BL.pdb
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\EntityModels.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\EntityModels.pdb
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Document-Flow\BL\obj\Debug\BL.dll
+C:\Users\Admin\Desktop\Document-Flow\BL\obj\Debug\BL.pdb
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\AutoMapper.dll
+D:\SourceTreeProjects\Document-Flow\BL\bin\Debug\AutoMapper.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.dll.config
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\AutoMapper.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\DAL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\System.Web.Mvc.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityModels.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\DAL.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\AutoMapper.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\System.Web.Mvc.xml
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityModels.pdb
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.dll
+E:\Новая папка (2)\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.dll.config
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\BL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\AutoMapper.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\DAL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\System.Web.Mvc.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityModels.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\DAL.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\AutoMapper.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\System.Web.Mvc.xml
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\EntityModels.pdb
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\bin\Debug\ru\System.Web.Mvc.resources.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.dll
+E:\Дипломный проект\Document-Flow-master\Document-Flow-master\BL\obj\Debug\BL.pdb
